@@ -1,0 +1,26 @@
+[
+	{
+	  "id": 1,
+		"name": "Disney fire",
+		"description": "Amante di topolino o di Disneyland? Porta un pezzo della magia di Disney proprio a casa tua",
+		"price": 46.99
+	},
+	{
+	  "id": 2,
+		"name": "Keith firing",
+		"description": "Amanti di Keith Haring, volete portare un pezzo di arte originale e funzionale in casa vostra? Questo è il prodotto che fa per voi!",
+		"price": 34.99
+	},
+	{
+	  "id": 3,
+		"name": "Smelly Cat",
+		"description": "Hai sempre voluto un estintore, ma sei un figlio dei fiori? Questo è la soluzione che fa per te! Costruito con materiali al 97% riciclabili, questo estintore salverà l'ambiente in due modi diversi! (Marijuana non compresa nel pacchetto)",
+		"price": 420.69
+	},
+	{
+	  "id": 4,
+		"name": "Estintore da Biliardo",
+		"description": "Hai sempre voluto un estintore, ma hai una dipendendenza patologica da Biliardo? Questo è l'estintore che fa per te! Questo capolavoro ha ben due utilizzi: estintore e mazza. Buon divertimento!",
+		"price": 48.99
+	}
+]
