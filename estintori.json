@@ -10,114 +10,133 @@
 	  "id": 2,
 		"name": "Keith firing",
 		"description": "Amanti di Keith Haring, volete portare un pezzo di arte originale e funzionale in casa vostra? Questo è il prodotto che fa per voi!",
-		"price": 34.99
+		"price": 34.99,
+		"category": "scontato"
 	},
 	{
 	  "id": 3,
 		"name": "Smelly Cat",
 		"description": "Hai sempre voluto un estintore, ma sei un figlio dei fiori? Questo è la soluzione che fa per te! Costruito con materiali al 97% riciclabili, questo estintore salverà l'ambiente in due modi diversi! (Marijuana non compresa nel pacchetto)",
-		"price": 420.69
+		"price": 420.69,
+		"category": "scontato"
 	},
 	{
 	  "id": 4,
-		"name": "Estintore da Biliardo",
-		"description": "Hai sempre voluto un estintore, ma hai una dipendendenza patologica da Biliardo? Questo è l'estintore che fa per te! Questo capolavoro ha ben due utilizzi: estintore e mazza. Buon divertimento!",
-		"price": 48.99
+	  "name": "Estintore da Biliardo",
+	  "description": "Hai sempre voluto un estintore, ma hai una dipendendenza patologica da Biliardo? Questo è l'estintore che fa per te! Questo capolavoro ha ben due utilizzi: estintore e mazza. Buon divertimento!",
+	  "price": 48.99,
+	  "category": "scontato"
 	},
 	{
 	  "id":5,
 	  "name":"Jumping fire",
 	  "description":"Amante del paese inesitente? Credi nell'effetto pac-man o più semplicemente ami gli animali? Non farti scappare questo estintore con supporto a forma di canguro! (Pensa a tutti i poveri canguri che sono morti bruciati)",
-	  "price":12.99
+	  "price":12.99,
+	  "category": "scontato"
 	},
 	{
 	  "id":6,
 	  "name":"Scefff",
 	  "description":"Per un tocco di moda in cucina",
 	  "price":30.00
+	  "category": "scontato"
 	},
 	{
 	  "id":7,
 	  "name":"Want some spicy soup?",
 	  "description":"Amanti della zuppa, volete insaporire le vostre tavole? Abbiamo ideato per voi il nuovo estintore a pelati(molto utile anche in caso di attacco con bombe atomiche stile 60 seconds)",
 	  "price":30.99
+	  "category": "scontato"
 	},
 	{
 	  "id":8,
 	  "name":"Baghdad",
 	  "description":"Per favore non compratelo",
 	  "price":40.00
+	  "category": "scontato"
 	},
 	{
 	  "id":9,
 	  "name":"Firechup",
 	  "description":"La maionese è finita? I soliti contenitori sono oramai noiosi e troppo standard?",
 	  "price":40.00
+	  "category": "scontato"
 	},
 	{
 	  "id":10,
 	  "name":"Notre dame",
 	  "description":"Date ai francesi ciò che è dei genovesi, Amazonia si tira fuori da ogni equivoco, ogni riferimento a cose o persone è puramente casuale",
 	  "price":100.00
+	  "category": "scontato"
 	},
 	{
 	  "id":11,
 	  "name":"Che Guefire",
 	  "description":"Rivoluzionari? Fatevi sentire",
 	  "price":20.99
+	  "category": "18"
 	},
 	{
 	  "id":12,
 	  "name":"Beer party",
 	  "description":"Niente più feste noiosi tra gli amanti degli incendi!",
 	  "price":15.00
+	  "category": "18"
 	},
 	{
 	  "id":13,
 	  "name":"Fire Fart",
 	  "description":"Si commenta da solo",
 	  "price":6.99
+	  "category": "cybertreemonday"
 	},
 	{
 	  "id":14,
 	  "name":"Mini giallo",
 	  "description":"Per avere con te sempre a portata di mano, lo trovi in più colorazioni! SOLO SUL NOSTRO SITO",
 	  "price":6.99
+	  "category": "scontato"
 	},
 	{
 	  "id":15,
 	  "name":"USFire",
 	  "description":"Se siete amanti delle fiamme, o meglio, se vi piace spegnerle, non fatevi scappare questa fantastica USB da 69GB",
 	  "price":451
+	  "category": "scontato"
 	},
 	{
 	  "id":16,
 	  "name":"Mini verde",
 	  "description":"Per avere con te sempre a portata di mano, lo trovi in più colorazioni! SOLO SUL NOSTRO SITO",
 	  "price":6.99
+	  "category": "supporti"
 	},
 	{
 	  "id":17,
 	  "name":"Non ditelo a nessuno",
 	  "description":"Shhhhhh, clicca qui",
 	  "price":4.99
+	  "category": "18"
 	},
 	{
 	  "id":18,
 	  "name":"Per i migliori ottici",
 	  "description":"Avete paura di vederci poco bene o volete aguzzare la vostra vista per vedere megliogli incendi?",
 	  "price":40.00
+	  "category": "segnaletica"
 	},
 	{
 	  "id":19,
 	  "name":"Dalì salvaci tu",
 	  "description":"Amanti dell'arte e del futurismo fatevi sentire, più rinoceronti per tutti!",
 	  "price":150.00
+	  "category": "scontato"
 	},
 	{
 	  "id":20,
 	  "name":"Gay Pride",
 	  "description":"Per un mondo a colori",
 	  "price":19.99
+	  "category": "18"
 	}
 ]
