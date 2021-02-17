@@ -38,105 +38,105 @@
 	  "id":6,
 	  "name":"Scefff",
 	  "description":"Per un tocco di moda in cucina",
-	  "price":30.00
+	  "price":30.00,
 	  "category": "scontato"
 	},
 	{
 	  "id":7,
 	  "name":"Want some spicy soup?",
 	  "description":"Amanti della zuppa, volete insaporire le vostre tavole? Abbiamo ideato per voi il nuovo estintore a pelati(molto utile anche in caso di attacco con bombe atomiche stile 60 seconds)",
-	  "price":30.99
+	  "price":30.99,
 	  "category": "scontato"
 	},
 	{
 	  "id":8,
 	  "name":"Baghdad",
 	  "description":"Per favore non compratelo",
-	  "price":40.00
+	  "price":40.00,
 	  "category": "scontato"
 	},
 	{
 	  "id":9,
 	  "name":"Firechup",
 	  "description":"La maionese è finita? I soliti contenitori sono oramai noiosi e troppo standard?",
-	  "price":40.00
+	  "price":40.00,
 	  "category": "scontato"
 	},
 	{
 	  "id":10,
 	  "name":"Notre dame",
 	  "description":"Date ai francesi ciò che è dei genovesi, Amazonia si tira fuori da ogni equivoco, ogni riferimento a cose o persone è puramente casuale",
-	  "price":100.00
+	  "price":100.00,
 	  "category": "scontato"
 	},
 	{
 	  "id":11,
 	  "name":"Che Guefire",
 	  "description":"Rivoluzionari? Fatevi sentire",
-	  "price":20.99
+	  "price":20.99,
 	  "category": "18"
 	},
 	{
 	  "id":12,
 	  "name":"Beer party",
 	  "description":"Niente più feste noiosi tra gli amanti degli incendi!",
-	  "price":15.00
+	  "price":15.00,
 	  "category": "18"
 	},
 	{
 	  "id":13,
 	  "name":"Fire Fart",
 	  "description":"Si commenta da solo",
-	  "price":6.99
+	  "price":6.99,
 	  "category": "cybertreemonday"
 	},
 	{
 	  "id":14,
 	  "name":"Mini giallo",
 	  "description":"Per avere con te sempre a portata di mano, lo trovi in più colorazioni! SOLO SUL NOSTRO SITO",
-	  "price":6.99
+	  "price":6.99,
 	  "category": "scontato"
 	},
 	{
 	  "id":15,
 	  "name":"USFire",
 	  "description":"Se siete amanti delle fiamme, o meglio, se vi piace spegnerle, non fatevi scappare questa fantastica USB da 69GB",
-	  "price":451
+	  "price":451,
 	  "category": "scontato"
 	},
 	{
 	  "id":16,
 	  "name":"Mini verde",
 	  "description":"Per avere con te sempre a portata di mano, lo trovi in più colorazioni! SOLO SUL NOSTRO SITO",
-	  "price":6.99
+	  "price":6.99,
 	  "category": "supporti"
 	},
 	{
 	  "id":17,
 	  "name":"Non ditelo a nessuno",
 	  "description":"Shhhhhh, clicca qui",
-	  "price":4.99
+	  "price":4.99,
 	  "category": "18"
 	},
 	{
 	  "id":18,
 	  "name":"Per i migliori ottici",
 	  "description":"Avete paura di vederci poco bene o volete aguzzare la vostra vista per vedere megliogli incendi?",
-	  "price":40.00
+	  "price":40.00,
 	  "category": "segnaletica"
 	},
 	{
 	  "id":19,
 	  "name":"Dalì salvaci tu",
 	  "description":"Amanti dell'arte e del futurismo fatevi sentire, più rinoceronti per tutti!",
-	  "price":150.00
+	  "price":150.00,
 	  "category": "scontato"
 	},
 	{
 	  "id":20,
 	  "name":"Gay Pride",
 	  "description":"Per un mondo a colori",
-	  "price":19.99
+	  "price":19.99,
 	  "category": "18"
 	}
 ]
