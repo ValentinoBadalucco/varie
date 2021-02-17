@@ -1,0 +1,68 @@
+[
+	{
+		"name": "unghie in gel",
+		"img": " res/unghie in gel.jpg",
+		"description": "Il nostro prodotto - Laminazione ciglia - utilizza una tecnica americana, ancora poco conosciuta in Italia, in grado di regalare alle ciglia naturali un aspetto straordinario. Grazie a questa particolare tecnica di rigenerazione, che utilizza la cheratina, garantiamo in una sola seduta un nutrimento profondo delle ciglia. L'effetto dura quanto il ciclo naturale delle ciglia (circa 8-12 settiamane) e durante questo tempo non dovrai preoccuparti di truccare le ciglia. Saranno naturalmente perfette e vitali con una lucentezza mai vista.",
+		"price": "60 euro a seduta."
+
+	},
+	
+	{	
+		"name": "laminazione ciglia",
+		"img": "res/laminazione di ciglia.jpg ",
+		"description": "Il nostro prodotto - Laminazione ciglia - utilizza una tecnica americana, ancora poco conosciuta in Italia, in grado di regalare alle ciglia naturali un aspetto straordinario. Grazie a questa particolare tecnica di rigenerazione, che utilizza la cheratina, garantiamo in una sola seduta un nutrimento profondo delle ciglia. L'effetto dura quanto il ciclo naturale delle ciglia (circa 8-12 settiamane) e durante questo tempo non dovrai preoccuparti di truccare le ciglia. Saranno naturalmente perfette e vitali con una lucentezza mai vista.",
+		"price": "40 euro a seduta."
+
+	},
+	
+	{	
+		"name": "laminazione sopracciglia",
+		"img": "res/laminazione sopracciglia.jpg",
+		"description": " Il nostro prodotto Laminazione sopracciglia ha come obiettivo quello di offrire un aspetto curato e una forma naturale all'arcata sopraccigliare. Il trattamento infoltisce le sopracciglia stimolandone naturalemnte la ricrescita siccome i principi attivi vengono applicati direttamente sul bulbo e consentono una crescita rapida. La forma delle sopracciglia risulterà modellata e ben definita, seguendo la naturale struttura per garantire armonia allo sguardo.",
+		"price":"40 euro a seduta."
+	},
+
+	{
+		"name": "massaggio linfodrenate",
+		"img": " res/massaggio linfodrenante.jpg",
+		"description": "Il nostro prodotto - Massaggio linfodrenate - utilizza una moderna tecnica in cui si vanno ad applicare pressioni in specifiche parti del corpo, alternando compressione e rilassamento, per agire sul sistema linfatico. Si tratta di un massaggio medico ed estetico dalla durata di circa 40-50 minuti a seduta, il cui obiettivo è sia quello di contrastare i ristagni di liquidi nel corpo sia quello di combattere gli inestesismi della cellulite..",
+		"price": "50 euro a seduta."
+
+	},
+{	
+		"name": "massaggio rilassante",
+		"img": "res/rilassante sopracciglia.jpg",
+		"description": "Il nostro prodotto - Massaggio rilassante - utilizza diverse tecniche, che unite alla preparazione del nostro staff, hanno la finalità di riattivare la circolazione sanguigna, in modo da ridurre gli stati d'ansia e di stress. L'utilizzo di oli essenziali è inoltre fondamentale per effettuare un corretto massaggio rilassante e perchè questo possa trasmettere i giusti benefici. A livello emotivo e mentale, infatti, tanti aromi presenti all'interno degli oli contribuiscono al rilassamento e all'allontanamento delle tensioni.",
+		"price": "20 euro a seduta."
+	},
+
+	{
+		"name": "pulizia viso",
+		"img": " res/pulizia del viso.jpg",
+		"description": " Il nostro prodotto - Pulizia del viso - utilizza un trattamento base per ogni tipologia di pelle. Si potrebbe anche definire - trattamento riequilibrante - perchè in seguito al trattamento la pelle acquisisce un colorito uniforme, una migliore idratazione, luminosità ed elasticità. Compresse calde imbevute in oli essenziali, peeling, massaggio con la coppettazione, eliminazione delle impurità: in questo trattamento ogni passagio è finalizzato a pulire e riattivare la pelle in profondità. Dopo il trattamento la pelle risulta più pulita, più morbida, più forte, più elastica e più ricettiva alle sostanze e ai multi-nutrienti che verranno applicati di seguito..",
+		"price": "40 euro a seduta."
+
+	},
+
+	{
+		"name": "laminazione ciglia e sopracciglia",
+		"description": "Il nostro pacchetto - Laminazione ciglia e sopracciglia - offre in un'unica seduta l'utilizzo della tecnica della laminazione applicata sia alle ciglia che alle sopracciglia..",
+		"price": "80 euro per entrambe le laminazioni."
+
+	},
+
+	{
+		"name": "massaggio linfodrenante e rilassante",
+		"description": "Il nostro prodotto - Massaggio linfodrenate e rilassante - offre in un'unica seduta le due diverse tecniche di massaggio. In questo modo potrai godere di un rilassamento generale e una scarica di tensione insieme a una riduzione di ristagni di liquidi per la prevenzione della cellulite.",
+		"price": "60 euro totali per i due trattamenti ."
+
+	},
+
+	{
+		"name": " Laminazione ciglia e sopracciglia e pulizia del viso",
+		"description": "Il nostro prodotto - Massaggio linfodrenate e rilassante - offre in un'unica seduta le due diverse tecniche di massaggio. In questo modo potrai godere di un rilassamento generale e una scarica di tensione insieme a una riduzione di ristagni di liquidi per la prevenzione della cellulite.",
+		"price": "120 euro per l'intero pacchetto."
+
+	}
+]
+
