@@ -3,7 +3,8 @@
 	  "id": 1,
 		"name": "Disney fire",
 		"description": "Amante di topolino o di Disneyland? Porta un pezzo della magia di Disney proprio a casa tua",
-		"price": 46.99
+		"price": 46.99,
+		"category": "scontato"
 	},
 	{
 	  "id": 2,
